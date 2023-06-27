@@ -2,7 +2,7 @@
 
 ## 🌐 Connect with me:
 - 🐦 Twitter: [SphinixAR](https://twitter.com/SphinixAR)
-- 📧 Email: iHsein83@gmail.com
+- 📧 Email: hseinbr@proton.me
 - 💬 Discord: [Sphinix#0001](https://discord.com/users/955521254738247760)
 
 ## 📚 About this repository:
